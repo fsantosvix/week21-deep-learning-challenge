@@ -12,11 +12,9 @@ The purpose of this analysis is to predict whether an applicant is likely to suc
 
 ---
 
-Using bulleted lists and images to support your answers, address the following questions:
-
 **Data Preprocessing**
 
-- The target variable is teh "IS_SUCCESSFUL, which confirms whether the money was used efficiently.
+- The target variable is the "IS_SUCCESSFUL" column, which confirms whether the money was used efficiently.
 - The features for this model are:
   - AFFILIATION — Affiliated sector of industry
   - CLASSIFICATION — Government organisation classification
@@ -43,7 +41,8 @@ Using bulleted lists and images to support your answers, address the following q
     <img src="Screenshots/NNModel_settings.png" alt="Image" style="width:80%;">
 </div>
 <br>
-- It has reached a 72.68% accuracy rate, under the 75% target model performance.
+
+- The model has reached a 72.68% accuracy rate, under the 75% target model performance.
 <div style="text-align:center;">
     <img src="Screenshots/NNModel_results.png" alt="Image" style="width:80%;">
 </div><br>
@@ -55,6 +54,7 @@ Using bulleted lists and images to support your answers, address the following q
   - Adding a third layer
 
 <br>
+
 - The best optimisation model has reached 72.91% and is represented below:
 
 <div style="text-align:center;">
